@@ -102,9 +102,3 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 
 ---
 
-### Code
-
-#### `src/data_preprocessing.py`
-
-```python
-import pandas
