@@ -1,0 +1,5 @@
+echo "numpy
+pandas
+opencv-python
+dlib
+tensorflow" > requirements.txt
